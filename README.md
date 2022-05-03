@@ -1,7 +1,7 @@
 # restAPI
 
 ## Clone Project
-# Get Started
+
 Run code: `./mvnw spring-boot:run`
 
 ## Get
