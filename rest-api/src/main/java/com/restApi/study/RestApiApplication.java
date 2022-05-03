@@ -9,10 +9,7 @@ public class RestApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiApplication.class, args);
 		
-		
-		var nome = "Rodolfo"; 
-		
-		System.out.println(nome);
+		System.out.println("Running on port 8080, http://localhost:8080/clients");
 	}
 
 }
