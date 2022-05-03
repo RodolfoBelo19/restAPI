@@ -15,3 +15,9 @@ Run code: `./mvnw spring-boot:run`
 `body: {
   "nome": "João"
 }`
+
+## getClient
+example: `http://localhost:8080/client/1`
+
+## deleteClient
+example: `http://localhost:8080/client/1`
